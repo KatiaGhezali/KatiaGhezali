@@ -12,7 +12,7 @@
 
 - 🎓 Part of the Re:Coded Bootcamp, focusing on Front-End
 
-- 📫 Let's connect on LinkedIn [ghezalikatia@hotmail.com)](ghezalikatia@hotmail.com)
+- 📫 How to reach me ghezalikatia@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
