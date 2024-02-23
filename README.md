@@ -10,9 +10,7 @@
 
 - 🔧 I use this space to experiment, play with code, and bring cool ideas to life
 
-- 🎓 Part of the Re:Coded Bootcamp, focusing on Front-End
-
-- 📫 How to reach me ghezalikatia@hotmail.com
+- 📫 How to reach me: ghezalikatia@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
